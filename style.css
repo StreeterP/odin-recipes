@@ -1,0 +1,37 @@
+body   {
+    margin: 0;
+    background-color: rgb(124, 139, 104);
+}
+
+div.top-logo   {
+    text-align: center;
+    background-color: rgb(182, 172, 81);
+
+}
+
+h1   {
+    text-align: center;
+    color: rgb(247, 210, 143);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75px;
+}
+
+.recipe-link   {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size: 25px;
+    
+}
+a   {
+    text-decoration: none;
+    color: rgb(247, 210, 143);
+}
+
+h4   {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 100px;
+}
+
